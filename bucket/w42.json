@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/yarn-rp/web42-network/releases/download/cli/v0.1.2/w42-windows-x64.exe#/w42.exe",
-      "hash": "placeholder"
+      "hash": "2589a0c5a7797f6bcb991a25ebeacb89cc3cc7e7975efe54807bc60ac7d65dc5"
     }
   },
   "bin": ["w42.exe"],
