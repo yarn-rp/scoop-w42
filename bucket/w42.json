@@ -1,12 +1,12 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.8",
   "description": "CLI for the Web42 Agent Network",
   "homepage": "https://github.com/yarn-rp/web42-network",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/yarn-rp/web42-network/releases/download/cli/v0.1.4/w42-windows-x64.exe#/w42.exe",
-      "hash": "80c014fd46a731ec0d4fe9e0346c2d8add6bcd766de29a9e5f59279713b3d9d7"
+      "url": "https://github.com/yarn-rp/web42-network/releases/download/cli/v0.1.8/w42-windows-x64.exe#/w42.exe",
+      "hash": "5319d79c54256809b451f44706d1bbc1a1999c73252974c946e1155cb435a7b5"
     }
   },
   "bin": ["w42.exe"],
